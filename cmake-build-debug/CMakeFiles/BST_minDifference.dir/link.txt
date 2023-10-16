@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BST_minDifference.dir/BST_minDifference.cpp.o -o BST_minDifference 

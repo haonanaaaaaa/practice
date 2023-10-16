@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/targetSumWays.dir/targetSumWays.cpp.o -o targetSumWays 

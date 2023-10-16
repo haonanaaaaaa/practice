@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Sequence_traversal_of_binary_tree.dir/Sequence_traversal_of_binary_tree.cpp.o -o Sequence_traversal_of_binary_tree 

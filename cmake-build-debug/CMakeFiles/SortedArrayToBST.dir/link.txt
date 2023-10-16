@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SortedArrayToBST.dir/SortedArrayToBST.cpp.o -o SortedArrayToBST 

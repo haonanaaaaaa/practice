@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BST_deleteNode.dir/BST_deleteNode.cpp.o -o BST_deleteNode 

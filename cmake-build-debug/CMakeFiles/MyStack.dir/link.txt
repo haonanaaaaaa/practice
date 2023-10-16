@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MyStack.dir/MyStack.cpp.o -o MyStack 

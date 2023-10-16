@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/double_pointer.dir/double_pointer.cpp.o -o double_pointer 

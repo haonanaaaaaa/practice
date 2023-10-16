@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Swing_sequence.dir/Swing_sequence.cpp.o -o Swing_sequence 

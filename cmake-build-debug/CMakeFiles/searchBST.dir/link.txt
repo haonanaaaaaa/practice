@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/searchBST.dir/searchBST.cpp.o -o searchBST 

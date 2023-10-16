@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BST_lowestCommonAncestor.dir/BST_lowestCommonAncestor.cpp.o -o BST_lowestCommonAncestor 

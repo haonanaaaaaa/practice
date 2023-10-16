@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/lastStoneWeight2.dir/lastStoneWeight2.cpp.o -o lastStoneWeight2 

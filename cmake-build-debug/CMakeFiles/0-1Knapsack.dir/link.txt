@@ -1,0 +1,1 @@
+/usr/bin/g++ -g "CMakeFiles/0-1Knapsack.dir/0-1Knapsack.cpp.o" -o 0-1Knapsack 

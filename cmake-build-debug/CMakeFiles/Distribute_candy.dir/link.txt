@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Distribute_candy.dir/Distribute_candy.cpp.o -o Distribute_candy 

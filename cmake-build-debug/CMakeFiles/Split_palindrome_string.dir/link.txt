@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Split_palindrome_string.dir/Split_palindrome_string.cpp.o -o Split_palindrome_string 

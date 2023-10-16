@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Permutations2.dir/Permutations2.cpp.o -o Permutations2 

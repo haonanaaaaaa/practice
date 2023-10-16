@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/countSubString.dir/countSubString.cpp.o -o countSubString 

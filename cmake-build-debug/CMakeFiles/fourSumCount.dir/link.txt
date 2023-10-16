@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/fourSumCount.dir/fourSumCount.cpp.o -o fourSumCount 

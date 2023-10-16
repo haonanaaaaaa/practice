@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/canConstruct.dir/canConstruct.cpp.o -o canConstruct 

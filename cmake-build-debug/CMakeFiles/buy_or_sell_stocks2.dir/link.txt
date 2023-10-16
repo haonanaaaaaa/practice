@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/buy_or_sell_stocks2.dir/buy_or_sell_stocks2.cpp.o -o buy_or_sell_stocks2 

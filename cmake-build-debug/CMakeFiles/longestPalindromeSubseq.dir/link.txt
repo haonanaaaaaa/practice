@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/longestPalindromeSubseq.dir/longestPalindromeSubseq.cpp.o -o longestPalindromeSubseq 

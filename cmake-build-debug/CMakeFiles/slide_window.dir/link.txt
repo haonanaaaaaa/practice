@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/slide_window.dir/slide_window.cpp.o -o slide_window 

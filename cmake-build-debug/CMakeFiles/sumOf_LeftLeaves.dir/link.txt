@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/sumOf_LeftLeaves.dir/sumOf_LeftLeaves.cpp.o -o sumOf_LeftLeaves 

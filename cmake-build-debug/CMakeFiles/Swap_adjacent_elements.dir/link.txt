@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Swap_adjacent_elements.dir/Swap_adjacent_elements.cpp.o -o Swap_adjacent_elements 

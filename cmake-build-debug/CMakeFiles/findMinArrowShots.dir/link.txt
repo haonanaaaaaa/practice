@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/findMinArrowShots.dir/findMinArrowShots.cpp.o -o findMinArrowShots 

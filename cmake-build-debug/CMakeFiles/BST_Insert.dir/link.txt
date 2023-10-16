@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BST_Insert.dir/BST_Insert.cpp.o -o BST_Insert 

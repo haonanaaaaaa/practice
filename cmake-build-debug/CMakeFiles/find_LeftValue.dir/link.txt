@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/find_LeftValue.dir/find_LeftValue.cpp.o -o find_LeftValue 

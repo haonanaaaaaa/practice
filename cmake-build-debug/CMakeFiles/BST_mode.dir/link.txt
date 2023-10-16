@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BST_mode.dir/BST_mode.cpp.o -o BST_mode 

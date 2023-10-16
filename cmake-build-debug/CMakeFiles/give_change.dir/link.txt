@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/give_change.dir/give_change.cpp.o -o give_change 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Invert_Word.dir/Invert_Word.cpp.o -o Invert_Word 

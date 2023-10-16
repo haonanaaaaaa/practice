@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Spiral_matrix.dir/Spiral_matrix.cpp.o -o Spiral_matrix 

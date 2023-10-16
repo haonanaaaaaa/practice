@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/array_intersection.dir/vector_intersection.cpp.o -o array_intersection 

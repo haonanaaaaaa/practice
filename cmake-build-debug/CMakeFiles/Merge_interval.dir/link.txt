@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Merge_interval.dir/Merge_interval.cpp.o -o Merge_interval 

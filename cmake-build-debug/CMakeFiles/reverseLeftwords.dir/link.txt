@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/reverseLeftwords.dir/reverseLeftwords.cpp.o -o reverseLeftwords 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/repeatedSubstringPattern.dir/repeatedSubstringPattern.cpp.o -o repeatedSubstringPattern 

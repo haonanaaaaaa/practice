@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BST_to_GreaterSumTree.dir/BST_to_GreaterSumTree.cpp.o -o BST_to_GreaterSumTree 

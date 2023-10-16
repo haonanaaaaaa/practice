@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Merge_binary_tree.dir/Merge_binary_tree.cpp.o -o Merge_binary_tree 

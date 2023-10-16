@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/practice.dir/binary_search.cpp.o -o practice 

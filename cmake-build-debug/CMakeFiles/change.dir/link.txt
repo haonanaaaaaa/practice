@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/change.dir/change.cpp.o -o change 

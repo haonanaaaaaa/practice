@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/distribute_cookies.dir/distribute_cookies.cpp.o -o distribute_cookies 

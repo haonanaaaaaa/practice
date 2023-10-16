@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/trimBST.dir/trimBST.cpp.o -o trimBST 

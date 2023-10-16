@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/minDistance.dir/minDistance.cpp.o -o minDistance 

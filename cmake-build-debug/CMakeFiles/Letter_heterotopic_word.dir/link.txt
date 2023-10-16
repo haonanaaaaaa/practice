@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Letter_heterotopic_word.dir/Letter_heterotopic_word.cpp.o -o Letter_heterotopic_word 

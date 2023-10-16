@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/canPartition.dir/canPartition.cpp.o -o canPartition 

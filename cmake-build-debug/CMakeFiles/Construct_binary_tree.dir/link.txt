@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Construct_binary_tree.dir/Construct_binary_tree.cpp.o -o Construct_binary_tree 
